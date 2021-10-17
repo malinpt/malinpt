@@ -1,0 +1,13 @@
+1, H, vesinik, mittemetall, Sulamispunkt −259,2 °C,  Värvitu lõhnatu maitsetu gaas,Universumis kõige sagedasem element, Vesinikku saadakse hüdrolüüsi teel veest, Raskest vesinikust, milles on 1 prooton ja 1 neutron, tehakse tuumapomme
+3, Li, liitium, leelismetall, Sulamispunkt 180°C, Hõbevalge pehme vähima tihedusega metall,Hõbevalge pehme vähima tihedusega metall, põleb punase leegiga, Keemiliselt väga aktiivne, Liitiumkarbonaadiga saab ravida väärakaid inimesi, Akuelement
+11, Na, naatrium, leelismetall, Sulamispunkt 98°C, pehme, hõbevalge metall, keemiliselt väga aktiivne 
+19, K, Kaalium, leelismetall, sulamispunkt 63°C, pehme hõbedane peegeldab hästi valgust
+37, Rb, rubiidium, leelismetall, sulamispunkt 39°C, pehme hõbedane
+55, Cs, tseesium, leelismetall, sulamispunkt 28.44°C,pehme kuldne läikiv
+87, Fr, frantsium, leelismetall, sulamispunkt 27°C, hõbevalge kõige aktiivsem metall
+4, Be, berüllium, metall, sulamispunkt 1278°C, tugev kuid habras
+12, Mg, magneesium, metall, sulamispunkt 650°C, hõbevalge läikiv
+20, Ca, kaltsium, leelismuldmetall, sulamistemperatuur 842°C, hall pole looduses vabal kujul
+38, Sr, strontsium, leelismuldmetall, sulamispunkt 777°C, pehme kerge ja hõbevalge või kollaka värvusega
+56, Ba, baarium, leelismuldmetall, sulamispunkt 727°C, pehme ja painduv
+88, Ra, raadium, leelismuldmetall, sulamispunkt 700°C, pehme läkiv radioaktiivne, põlemisel karmiinpunane leek
