@@ -24,4 +24,21 @@
 7, N, Lämmastik, mittemetall, sulamispunkt -210°C, lõhnatu, värvitu, maitsetu gaas. Moodustab maa atmosfäärist 78.08%, stabiilne gaas
 15, P, Fosfor, mittemetall, sulamispunkt 44.1°C, ei leidu peaaegu kunagi maapeal lihtainena, vahest punane, vahest valge, vahest hoopis must
 33, As, Arseen, poolmetall, sulamispunkt 817°C, lihtainena esineb harva, galliumiga ühendid võimaldavad luua väga häid pooljuhte
-51, Sb, 
+51, Sb, Antimon, poolmetall, sulamispunkt 360°C, hõbehall, habras, halvasti elektrit juhtiv aine
+83, Bi, Vismut, metall, sulamispunkt 271°C, vismuti kristallid on iseloomuliku nurgelise struktuuriga. Radioaktiivne, oksiidikihiga näib värviline, ilma metalne
+8, O, Hapnik, mittemetall, sulamispunkt -218.8°C, stabiilne, maitsetu, lõhnatu, vedelal olekul sinine
+16, S, Väävel, mittemetall, sulamispunkt 112.8°C, kollane, rabe, ei juhi elektrit, vees kristalne väävel ei lahustu.
+34, Se, Seleen, mittemetall, sulamispunkt 217°C, hall, pooljuhtiv tahke aine, mikroelement hormoonide ja fermendi koostises, antioksüdant
+52, Te, Telluur, poolmetall, sulamispunkt 449.51°C, hõbedane, habras, pooljuhtiv aine, tervikuna universumis tavalineaga maal üsna haruldane
+84, Po, Poloonium, metall, sulamispunkt 254°C, tervist kahjustav looduslik radioaktiivsusallikas
+9, F, Fluor, halogeen, sulamispunkt -219.6°C,  kollakas gaas, aktiivseim halogeen, inimkehale söövitav
+17, Cl, Kloor, halogeen, sulamispunkt -100.98°C, raske, mürgine, terava lõhnaga, rohekaskollane gaas
+35, Br, Broom, halogeen, sulamispunkt -6°C, tumepruun, nii vedelik kui ka aur on inimkehale söövitav
+53, I, Jood, halogeen, sulamispunkt 113°C, tumepruun kristall, keemisel lillakas aur, kasutatakse haavade puhastamiseks
+85, At, Astaat, poolmetall, sulamispunkt 302°C, maakoores alla 30g astaadi, väga haruldane, radioaktiivne
+2, He, Heelium, väärisgaas, sulamispunkt -272.2°C, ei reageeri millegagi, gaaslahenduslambis põleb punaselt
+10, Ne, Neoon, väärisgaas, sulamispunkt -248.6°C, ei reageeri millegagi, gaaslahenduselambis põleb punakas-oranzilt
+18, Ar, Argoon, väärisgaas, sulamispunkt -189.4°C, argooni ühendid tekivad vaid ülimadalal temperatuuril maatriksreaktsiooni abil, maal levinuim väärisgaas
+36, Kr, Krüptoon, väärisgaas, sulamispunkt -157.4°C, värvitu, lõhnatu, maitsetu gaas, gaaslahenduslambis põleb sinakasvalgelt
+54, Xe, Ksenoon, väärisgaas, sulamispunkt -111°C, eksisteerib mingites ühendites aga üldiselt ei reageeri teistega, gaaslahenduslambis kiirgab sinakalt või lillakalt
+86, Rn, Radoon, väärisgaas, sulamispunkt -70°C, tekib uaani lagunemisel, looduslikradioaktiivsuse allikas, 
